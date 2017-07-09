@@ -43,7 +43,7 @@ class ImageRecognition
   end
 
   def broadly_categorize_image
-    # Performs label detection on the image file, broadly categorizing
+    # Performs label detection of the image file, broadly categorizing
     # image properties for further, targeted recognition
     count = 0
     labels = {}
